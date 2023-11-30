@@ -1,5 +1,4 @@
 # cropImage
  C#을 이용한 cropImage 예제
-<p align="center">
-<ima src="https://blog.kakaocdn.net/dn/dgEUOF/btrGWahc7uI/4unJezq8deaqcDngSho5Q1/img.gif">
-</p>
+
+![img](https://github.com/Unnonamed/cropImage/assets/47971409/c9fbb756-f3e5-4bf0-a0c7-95306e437e16)
